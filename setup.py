@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='rdkit_heatmap',
+    name='rdkit_heatmaps',
     version='0.1',
     author='Christian Feldmann',
     license="BSD",
